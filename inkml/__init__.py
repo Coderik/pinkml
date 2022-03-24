@@ -1,0 +1,3 @@
+from .inkml import INKML_NAMESPACE_URI
+
+NAMESPACE_MAPPING = {'inkml': INKML_NAMESPACE_URI}
